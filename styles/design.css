@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+}
+.banner-2nd{
+    position: absolute;
+    width: 288px;
+    height: 852px;
+    top: 854px;
+}
+.banner img{
+    width: 1600px;
+    height: 809px;
+    left: 1660px;
+    top: 0px;
+}
+.btn-primary{
+    position: absolute;
+    width: 100px;
+    height: 31px;
+    background-color: #fd6e0a;
+    border: 0;
+    color: white;
+}
+.plan{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 700px;
+    font-size: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.watch {
+    color: #fff;
+    background-image: url('/images/watch.png');
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2210.3px;
+}    
+.future{
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+}
+.future-end{
+    display: flex;
+    align-items: center;
+}
+.email{
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+.sub-btn{
+    color: orange;
+    background-color: white;
+    border-color: white;
+}
+.information{
+    align-items: center;
+}
